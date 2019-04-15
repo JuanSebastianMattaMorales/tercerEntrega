@@ -1,0 +1,27 @@
+{
+  "name": "segunda_entrega",
+  "version": "1.0.0",
+  "description": "segunda entrega del curso de node js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.3",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lucasoz/segunda_entrega_node_js.git"
+  },
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oz luemunozmo@unal.edu.co",
+  "license": "ISC"
+}
